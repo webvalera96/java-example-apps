@@ -15,7 +15,7 @@
     <maven.compiler.source>${java.version}</maven.compiler.source>
     <maven.compiler.target>${java.version}</maven.compiler.target>
     <sonar.host.url>http://sonarqube.k3s.dmz</sonar.host.url>
-    <sonar.token>${SONAR_TOKEN}</sonar.token>
+    <sonar.token>squ_00012827a820eb4bfec1492edb23f550150aaa26</sonar.token>
   </properties>
 
   <dependencies>
